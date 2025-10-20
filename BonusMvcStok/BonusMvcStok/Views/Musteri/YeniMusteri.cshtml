@@ -1,0 +1,28 @@
+﻿@model  BonusMvcStok.Models.Entity.tblmusteri
+@{
+    ViewBag.Title = "YeniMusteri";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form method="post">
+
+    <h2>Yeni Musteri Ekleme</h2>
+    <br />
+    <label>Müsteri Adı</label>
+    @Html.TextBoxFor(x => x.ad, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ad, "", new { @style = "color:yellow" })
+    <br />
+    <label>Soyad</label>
+    @Html.TextBoxFor(x => x.soyad, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ad,"", new { @style = "color:green" })
+    <br />
+    <label>Sehir</label>
+    @Html.TextBoxFor(x => x.sehir, new { @class = "form-control" })
+    <br />
+    <label>Bakiye</label>
+    @Html.TextBoxFor(x => x.bakiye, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info">Kaydet</button>
+</form>
+
+

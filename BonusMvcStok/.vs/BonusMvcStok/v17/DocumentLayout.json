@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mciha\\source\\repos\\BonusMvcStok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F049F62-A8C6-474F-AACE-677402716D68}|BonusMvcStok\\BonusMvcStok.csproj|c:\\users\\mciha\\source\\repos\\bonusmvcstok\\bonusmvcstok\\views\\girisyap\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F049F62-A8C6-474F-AACE-677402716D68}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\views\\girisyap\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F049F62-A8C6-474F-AACE-677402716D68}|BonusMvcStok\\BonusMvcStok.csproj|c:\\users\\mciha\\source\\repos\\bonusmvcstok\\bonusmvcstok\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F049F62-A8C6-474F-AACE-677402716D68}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F049F62-A8C6-474F-AACE-677402716D68}|BonusMvcStok\\BonusMvcStok.csproj|c:\\users\\mciha\\source\\repos\\bonusmvcstok\\bonusmvcstok\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F049F62-A8C6-474F-AACE-677402716D68}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Web.config",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Web.config",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Web.config",
+              "RelativeToolTip": "BonusMvcStok\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-19T09:43:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "RelativeToolTip": "BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T09:31:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GirisYapController.cs",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Controllers\\GirisYapController.cs",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Controllers\\GirisYapController.cs",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Controllers\\GirisYapController.cs",
+              "RelativeToolTip": "BonusMvcStok\\Controllers\\GirisYapController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:31:15.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
